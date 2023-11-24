@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home1" android:title="Multicontador"
+        android:icon="@drawable/ic_time"/>
+    <item android:id="@+id/home2" android:title="Prueba"
+        android:icon="@drawable/ic_phone"/>
+    <item android:id="@+id/home3" android:title="Prueba"
+        android:icon="@drawable/ic_home"/>
+
+</menu>
